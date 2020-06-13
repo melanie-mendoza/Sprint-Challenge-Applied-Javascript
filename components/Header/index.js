@@ -37,7 +37,7 @@ function Header() {
 }
 
 // Entry Point to HTML
-const entryPoint = document.querySelector('.header-container');
+const headerEntryPoint = document.querySelector('.header-container');
 const newHeader = Header();
-entryPoint.appendChild(newHeader);
+headerEntryPoint.appendChild(newHeader);
 
