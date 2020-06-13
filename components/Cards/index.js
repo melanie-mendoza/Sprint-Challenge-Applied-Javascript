@@ -44,7 +44,7 @@ function Cards(object) {
     authorImage.src = object.authorPhoto;
 
     // Append
-    cardDiv.appendChild(headlineDiv, authorContainerDiv);
+    cardDiv.append(headlineDiv, authorContainerDiv);
     authorContainerDiv.appendChild(imageContainerDiv, authorNameSpan);
     imageContainerDiv.appendChild(authorImage);
 
