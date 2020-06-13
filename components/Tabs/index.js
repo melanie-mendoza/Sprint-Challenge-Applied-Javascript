@@ -14,7 +14,7 @@ function Tabs(topic) {
     const tabDiv = document.createElement('div');
 
     // Add class
-    tabDiv.classList.add('.tab');
+    tabDiv.classList.add('tab');
 
     // Add text
     tabDiv.textContent = topic;
