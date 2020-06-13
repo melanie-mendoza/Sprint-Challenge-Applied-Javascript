@@ -45,7 +45,11 @@ Edit this document to include your answers after each question. Make sure to lea
 
 4. Why would we convert a NodeList into an Array?
 
+    To get access to array methods.
+
 5. What is a component?
+
+    Single, modular pieces of code. Consists of html, css, js. Reusable, DRY. Can stand alone
 
 ### Git Set up
 
